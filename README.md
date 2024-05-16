@@ -4,7 +4,7 @@ I'm initiating a comprehensive repository that will serve as a central hub for a
 
 Here are some of the key areas where **[ASCII](https://pinjoa.github.io/ascii-related/full-ascii-table.html)** is still prominently used:
 
-- **Markdown**: **[ASCII](https://pinjoa.github.io/ascii-related/full-ascii-table.html)** characters are the backbone of Markdown language. It's a lightweight markup language that you can use to add formatting elements to plaintext text documents. From headers, links, to lists, **[ASCII](https://pinjoa.github.io/ascii-related/full-ascii-table.html)** characters enable all these features in Markdown (you can learn more **[here](https://www.markdownguide.org/basic-syntax/)**).
+- **Markdown**: **[ASCII](https://pinjoa.github.io/ascii-related/full-ascii-table.html)** characters are the backbone of **[Markdown](https://www.markdownguide.org/basic-syntax/)** language. It's a lightweight markup language that you can use to add formatting elements to plaintext text documents. From headers, links, to lists, **[ASCII](https://pinjoa.github.io/ascii-related/full-ascii-table.html)** characters enable all these features in **[Markdown](https://www.markdownguide.org/basic-syntax/)** (you can learn more **[here](https://www.markdownguide.org/basic-syntax/)**).
 
 - **Terminal or Command Line Interface (CLI) Software**: **[ASCII](https://pinjoa.github.io/ascii-related/full-ascii-table.html)** is essential in the development of software that operates within a terminal or command line interface. It's used to interpret command inputs and display outputs, making it integral to the functionality of CLIs.
 
